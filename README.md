@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tonny Akter</h1>
 <h3 align="center">I'm a CSE student at World University of Bangladesh, passionate about coding, problem-solving, and building real-world projects. I work with C, C++, Java, and Python, and I'm currently learning web development and GitHub. I love exploring new technologies and aim to grow as a software developer.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonny-akter&label=Profile%20views&color=0e75b6&style=flat" alt="tonny-akter" /> </p>
 
