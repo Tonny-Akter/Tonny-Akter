@@ -1,4 +1,7 @@
-## Hi there 👋
+<img src="https:https://www.pinterest.com/pin/computer-code-decrypting-animated-gif--952652127407579398/" alt="Welcome Banner" width="100%" />
+
+
+###Hi there 👋
 <h1 align="center">Hi 👋, I'm Tonny Akter</h1>
 <h3 align="center">I'm a CSE student at World University of Bangladesh, passionate about coding, problem-solving, and building real-world projects. I work with C, C++, Java, and Python, and I'm currently learning web development and GitHub. I love exploring new technologies and aim to grow as a software developer.</h3>
 
