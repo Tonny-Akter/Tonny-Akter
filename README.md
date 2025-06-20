@@ -1,7 +1,6 @@
 ## Hi there 👋
-
-<<h1 align="center">Hi 👋, I'm Tonny Akter</h1>
-<h3 align="center">I am completing Bs.c in Computer Science & Engineering .I am very passionate about debug</h3>
+<h1 align="center">Hi 👋, I'm Tonny Akter</h1>
+<h3 align="center">I'm a CSE student at World University of Bangladesh, passionate about coding, problem-solving, and building real-world projects. I work with C, C++, Java, and Python, and I'm currently learning web development and GitHub. I love exploring new technologies and aim to grow as a software developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonny-akter&label=Profile%20views&color=0e75b6&style=flat" alt="tonny-akter" /> </p>
 
@@ -9,7 +8,11 @@
 
 - 🔭 I’m currently working on **making Website 👩‍💻"Medi-Well"**
 
-- 🌱 I’m currently learning **about different ✨computer language, software**
+- 🌱 I’m currently learning **about different ✨computer language,programming, software development, and web technologies.**
+
+- 📫 How to reach me **0323653972@student.wub.edu.bd**
+
+- ⚡ Fun fact **I'm a curious and hardworking learner who loves turning ideas into code. Very chill by nature, always exploring, and growing one line of code at a time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,17 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tonny-akter&show_icons=true&locale=en" alt="tonny-akter" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tonny-akter&" alt="tonny-akter" /></p>
-!--
-**Tonny-Akter/Tonny-Akter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
