@@ -1,4 +1,5 @@
-<img src="https:https://www.pinterest.com/pin/computer-code-decrypting-animated-gif--952652127407579398/" alt="Welcome Banner" width="100%" />
+![Welcome Banner](https://tenor.com/view/github-banner-gif-...gif)
+
 
 
 ###Hi there 👋
